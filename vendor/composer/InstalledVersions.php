@@ -25,24 +25,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'hcodebr/ecommerce',
+    'reference' => 'bf15382bc10d68e7d1a0d1ea72c068f055fe50ba',
+    'name' => 'brunooliveira9/ecommerce',
   ),
   'versions' => 
   array (
-    'hcodebr/ecommerce' => 
+    'brunooliveira9/ecommerce' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'bf15382bc10d68e7d1a0d1ea72c068f055fe50ba',
     ),
     'phpmailer/phpmailer' => 
     array (
@@ -64,12 +64,12 @@ private static $installed = array (
     ),
     'slim/slim' => 
     array (
-      'pretty_version' => '2.0.0',
-      'version' => '2.0.0.0',
+      'pretty_version' => '2.6.3',
+      'version' => '2.6.3.0',
       'aliases' => 
       array (
       ),
-      'reference' => '3e95c9abbc57a8f023ab4dacebcab9dae4d9f1f0',
+      'reference' => '9224ed81ac1c412881e8d762755e3d76ebf580c0',
     ),
   ),
 );
